@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[779],{9856:function(s){s.exports=JSON.parse('{"allTagsPath":"/odin-rock-paper-scissors-docs/blog/tags","name":"docusaurus","count":4,"permalink":"/odin-rock-paper-scissors-docs/blog/tags/docusaurus"}')}}]);
